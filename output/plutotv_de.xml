@@ -2476,6 +2476,11 @@
         <desc>Übertragungen von aktuellen Wettbewerben aus der Welt des Darts.</desc>
         <icon src="https://images.pluto.tv/series/6527b59f3e6938001ac28043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="64b67f0424ade50008a3be17" start="20260404012200 +0000" stop="20260404034300 +0000">
+        <title>Darts</title>
+        <desc>Übertragungen von aktuellen Wettbewerben aus der Welt des Darts.</desc>
+        <icon src="https://images.pluto.tv/series/6527b59f3e6938001ac28043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="64be635a40962900080aaca5" start="20260403182100 +0000" stop="20260403184600 +0000">
         <title>Rules of Engagement: Suppentimmy</title>
         <desc>Jeff entdeckt, dass Audrey Sex benutzt, um zu bekommen, was sie will, während Russell und Timmy einen Werbespot für ihren neuen Suppenlöffel machen.</desc>
@@ -40456,20 +40461,15 @@
         <desc>Lisa organisiert eine Spendenveranstaltung in ihrem Restaurant. Sie erwartet zahlreiche Gäste mit Rang und Namen, und natürlich dürfen auch ihre Freundinnen nicht fehlen. Auch Taylor veranstaltet eine Party unter dem Motto "Die goldenen Zwanziger".</desc>
         <icon src="https://images.pluto.tv/series/680ba42330b839eca529696f/tile_1763014468186.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb0231da79bfe4fb0bf4e" start="20260404162500 +0000" stop="20260404171600 +0000">
-        <title>The Real Housewives of New York City</title>
-        <desc>Es werden bisher noch unveröffentlichte Szenen der fünf Hausfrauen aus New York gezeigt. Des Weiteren gibt es nicht nur Streit Situation, sondern auch lustige Situationen, die die Frauen miteinander geteilt und zusammengeschweißt haben.</desc>
-        <icon src="https://images.pluto.tv/series/680ba42330b839eca5296790/tile_1745593415078.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="677fb0231da79bfe4fb0bf4e" start="20260404162500 +0000" stop="20260404182500 +0000">
+        <title>The Real Housewives</title>
+        <desc>Unter der schillernden Oberfläche der Highsociety, lauert etwas Finsteres. Zwischen ausschweifenden Parties und Shoppingtrips wird gelogen und betrogen, gelästert und in­t­ri­gie­rt.</desc>
+        <icon src="https://images.pluto.tv/series/680ba5f130b839eca53b982a/tile_1745593978877.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb0231da79bfe4fb0bf4e" start="20260404171600 +0000" stop="20260404180500 +0000">
-        <title>The Real Housewives of New York City</title>
-        <desc>Jill bekommt Probleme bei einem Interview für die New York Post. Bethenny verbringt den Sommer mit Jill auf ihrem Anwesen in den Hamptons. LuAnn stellt Kelly den anderen Damen vor. Alex und Simon streiten auf einer Party mit Jill.</desc>
-        <icon src="https://images.pluto.tv/series/680ba42330b839eca5296790/tile_1745593415078.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="677fb0231da79bfe4fb0bf4e" start="20260404180500 +0000" stop="20260404185600 +0000">
-        <title>The Real Housewives of Atlanta</title>
-        <desc>Sheree tratscht über die Fehltritte ihrer Partyplanerin. Lisa und Ed besuchen zum ersten Mal ein Kinderwunschzentrum. Kandi begibt sich zu einem Tonstudio, um an ihrem Album zu arbeiten. NeNe hofft, sich mit Kim zu versöhnen.</desc>
-        <icon src="https://images.pluto.tv/series/680ba42330b839eca529684d/tile_1745593411838.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="677fb0231da79bfe4fb0bf4e" start="20260404182500 +0000" stop="20260404202500 +0000">
+        <title>The Real Housewives</title>
+        <desc>Unter der schillernden Oberfläche der Highsociety, lauert etwas Finsteres. Zwischen ausschweifenden Parties und Shoppingtrips wird gelogen und betrogen, gelästert und in­t­ri­gie­rt.</desc>
+        <icon src="https://images.pluto.tv/series/680ba5f130b839eca53b982a/tile_1745593978877.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67ebbdced2832b463faa1e79" start="20260404140434 +0000" stop="20260404145751 +0000">
         <title>Küstenwache: Doppeltes Spiel</title>
@@ -43446,12 +43446,17 @@
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/663e09e4b18d700008e48dcf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="677fb0231da79bfe4fb0bf4e" start="20260404182500 +0000" stop="20260404202500 +0000">
-        <title>The Real Housewives</title>
-        <desc>Unter der schillernden Oberfläche der Highsociety, lauert etwas Finsteres. Zwischen ausschweifenden Parties und Shoppingtrips wird gelogen und betrogen, gelästert und in­t­ri­gie­rt.</desc>
-        <icon src="https://images.pluto.tv/series/680ba5f130b839eca53b982a/tile_1745593978877.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="677fb0231da79bfe4fb0bf4e" start="20260404180500 +0000" stop="20260404185600 +0000">
+        <title>The Real Housewives of Atlanta</title>
+        <desc>Sheree tratscht über die Fehltritte ihrer Partyplanerin. Lisa und Ed besuchen zum ersten Mal ein Kinderwunschzentrum. Kandi begibt sich zu einem Tonstudio, um an ihrem Album zu arbeiten. NeNe hofft, sich mit Kim zu versöhnen.</desc>
+        <icon src="https://images.pluto.tv/series/680ba42330b839eca529684d/tile_1745593411838.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb0231da79bfe4fb0bf4e" start="20260404202500 +0000" stop="20260404223000 +0000">
+    <programme channel="677fb0231da79bfe4fb0bf4e" start="20260404185600 +0000" stop="20260404194900 +0000">
+        <title>The Real Housewives of Atlanta</title>
+        <desc>Die lang ersehnte Versöhnung zwischen NeNe, Kim und Sheree läuft nicht wie geplant. Kim schmeißt eine Perückenparty, um ihre neue Geschäftsidee zu zelebrieren. Dwight veranstaltet unterdessen eine Zirkus-Geburtstagsfeier.</desc>
+        <icon src="https://images.pluto.tv/series/680ba42330b839eca529684d/tile_1745593411838.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677fb0231da79bfe4fb0bf4e" start="20260404194900 +0000" stop="20260404223000 +0000">
         <title>The Real Housewives</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/677fb0231da79bfe4fb0bf4e/featuredImage_1761917753182.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
