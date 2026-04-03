@@ -15306,6 +15306,11 @@
         <desc>Bayer 04 Leverkusen hosts FC Bayern Munich at the BayArena for a high-stakes Matchday 26 Bundesliga fixture. This contest pits the league leaders Bayern Munich against a Leverkusen side fighting to maintain its European qualification status.</desc>
         <icon src="https://images.pluto.tv/series/65e60c8c9255690013422b78/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="647f07e74cfc2c0008a2e557" start="20260404025400 +0000" stop="20260404045100 +0000">
+        <title>English Championship Soccer</title>
+        <desc>From Bramall Lane in Sheffield, England, United Kingdom.</desc>
+        <icon src="https://images.pluto.tv/series/655d611a21ca0c0013789a01/tile_1760997836282.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="6482f27c17f5e10008c10ff0" start="20260403220500 +0000" stop="20260403223500 +0000">
         <title>Arthur</title>
         <desc>Arthur and The Brain encounter a new crossing guard on the way home from school. This guard isn't just mean, he's nuts! And, D.W. is making Arthur's life miserable! Francine decides she'd fix D.W.'s behavior before Arthur loses his mind.</desc>

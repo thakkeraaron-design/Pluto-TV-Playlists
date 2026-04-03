@@ -21795,6 +21795,11 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Alexander Sokurov's film about Emporer Hirohito's surrender at the end of World War II.</desc>
         <icon src="https://images.pluto.tv/series/691ae14008b2fa12fafe56ad/tile_1763404643626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="68b5a7b69ac85c428f54c441" start="20260404110421 +0000" stop="20260404132800 +0000">
+        <title>Our Little Sister</title>
+        <desc>A story that revolves around three sisters who live in their grandmother's home and the arrival of their 13-year-old half sister.</desc>
+        <icon src="https://images.pluto.tv/series/6916ea684b5f5c0593c8dbf1/tile_1763109484475.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="68c82005be767928b4a8ef0c" start="20260404063000 +0000" stop="20260404070000 +0000">
         <title>I Survived...</title>
         <desc>This no-frills series presents chilling first-person accounts from people who overcame deadly situations, allowing the survivors to describe the events as they unfolded and how they made it out alive.</desc>
@@ -42115,7 +42120,12 @@ planets</desc>
         <desc>Featuring an SS17 full stage replay of the Delfi Rally Estonia 2025.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce9a4b1996b7d1334f3b/tile_1772539547751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e024a7e92438c27a425a8" start="20260404183500 +0000" stop="20260404223000 +0000">
+    <programme channel="696e024a7e92438c27a425a8" start="20260404183500 +0000" stop="20260404192100 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>Featuring an SS18 full stage replay of the Delfi Rally Estonia 2025.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce9a4b1996b7d1334f3b/tile_1772539547751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e024a7e92438c27a425a8" start="20260404192100 +0000" stop="20260404223000 +0000">
         <title>Rally TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/696e024a7e92438c27a425a8/featuredImage_1770892518087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

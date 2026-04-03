@@ -9678,9 +9678,9 @@ Suneo joue un tour au passionné d’OVNIs du coin, Doraemon décide alors d’o
         <icon src="https://images.pluto.tv/series/683482d20f8298da569074f3/tile_1748271907936.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="680291e38e1ff89c2427aefd" start="20260403224800 +0000" stop="20260403234200 +0000">
-        <title>Voyages &amp; Saveurs</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/featuredImage_1749650211199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>La terre vue du train</title>
+        <desc>Trajet en train depuis Tirano, en Italie, qui serpente à travers les Alpes jusqu'au pied du Cervin, offrant une vue imprenable sur les paysages montagneux spectaculaires de la Suisse.</desc>
+        <icon src="https://images.pluto.tv/series/683482d60f8298da56907dbc/tile_1774660590550.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="680291e38e1ff89c2427aefd" start="20260403234200 +0000" stop="20260404004300 +0000">
         <title>Mes recettes du bonheur</title>
@@ -9697,10 +9697,10 @@ Suneo joue un tour au passionné d’OVNIs du coin, Doraemon décide alors d’o
         <desc>Amanda, JB et Sam sont en compétition pour trouver leur propriété côtière préférée à Deal, dans le Kent.</desc>
         <icon src="https://images.pluto.tv/series/69b40d16704dcd7b4df1a3dc/tile_1773407510984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680291e38e1ff89c2427aefd" start="20260404013300 +0000" stop="20260404023000 +0000">
-        <title>Voyages &amp; Saveurs</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/featuredImage_1749650211199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="680291e38e1ff89c2427aefd" start="20260404013300 +0000" stop="20260404023300 +0000">
+        <title>Les 100 lieux qu'il faut voir</title>
+        <desc>Découvrez les secrets et les beautés du Berry lors d'une promenade à travers les merveilles de cette région. De Bourges à la biodiversité préservée des Marais, laissez vous surprendre par un patrimoine riche.</desc>
+        <icon src="https://images.pluto.tv/series/683482d20f8298da5690757c/tile_1754431990848.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="685a999bd33909bdd7d2fb1e" start="20260403205606 +0000" stop="20260403224101 +0000">
         <title>La Maison France 5</title>
@@ -28895,10 +28895,15 @@ A LA RECHERCHE DU FRUIT DU BISTOURI !</title>
         <desc>C'est le jour de l'ouverture de la saison du thon rouge, et chaque capitaine cherche à capturer le premier poisson lucratif.</desc>
         <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1768266002362.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680291e38e1ff89c2427aefd" start="20260404143000 +0000" stop="20260404160500 +0000">
-        <title>Voyages &amp; Saveurs</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/featuredImage_1749650211199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="680291e38e1ff89c2427aefd" start="20260404140400 +0000" stop="20260404150400 +0000">
+        <title>Les 100 lieux qu'il faut voir</title>
+        <desc>Découvrez les secrets et les beautés du Berry lors d'une promenade à travers les merveilles de cette région. De Bourges à la biodiversité préservée des Marais, laissez vous surprendre par un patrimoine riche.</desc>
+        <icon src="https://images.pluto.tv/series/683482d20f8298da5690757c/tile_1754431990848.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680291e38e1ff89c2427aefd" start="20260404150400 +0000" stop="20260404160500 +0000">
+        <title>Les 100 lieux qu'il faut voir</title>
+        <desc>Depuis les paysages calcaires des gorges du Verdon, en passant par la plaine de Fayence pour finir dans le massif de l'Estérel, cette randonnée provençale suit le parcours du GR 49 et promet des moments d'une rare beauté.</desc>
+        <icon src="https://images.pluto.tv/series/683482d20f8298da5690757c/tile_1754431990848.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="680291e38e1ff89c2427aefd" start="20260404160500 +0000" stop="20260404165400 +0000">
         <title>Locations de Rêve au Soleil</title>
@@ -28910,10 +28915,10 @@ A LA RECHERCHE DU FRUIT DU BISTOURI !</title>
         <desc>Amanda, JB et Sam sont à St Andrews, en Écosse, pour trouver leur escapade de charme préférée.</desc>
         <icon src="https://images.pluto.tv/series/69b40d16704dcd7b4df1a3dc/tile_1773407510984.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680291e38e1ff89c2427aefd" start="20260404174400 +0000" stop="20260404183000 +0000">
-        <title>Voyages &amp; Saveurs</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/featuredImage_1749650211199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="680291e38e1ff89c2427aefd" start="20260404174400 +0000" stop="20260404184200 +0000">
+        <title>Cuisine Sauvage</title>
+        <desc>En Corse du Sud, John invite la chef Reine Sammut. Depuis trente ans, cette autodidacte, originaire de l'est de la France, pratique une cuisine ensoleillée à l'image de sa terre d'accueil, la Méditerranée.</desc>
+        <icon src="https://images.pluto.tv/series/683dda380f8298da56ba61fe/tile_1748884058874.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="685a999bd33909bdd7d2fb1e" start="20260404134619 +0000" stop="20260404153114 +0000">
         <title>La Maison France 5</title>

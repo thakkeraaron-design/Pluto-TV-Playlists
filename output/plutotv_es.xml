@@ -2846,6 +2846,11 @@
         <desc>El Coronel York combate a los apaches desde su fuerte cercano a la frontera con México. Su hijo, que ha fracasado en West Pont, se alista a su regimiento.</desc>
         <icon src="https://images.pluto.tv/series/67404ae3e103890013151cd7/tile_1768604401932.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="6385e82900ab2e000768a058" start="20260403225346 +0000" stop="20260404002305 +0000">
+        <title>El discípulo del diablo</title>
+        <desc>Adaptación de una obra de Bernard Shaw basada en hechos ocurridos en 1777. Durante la Guerra de Independencia de los EEUU surgió una estrecha amistad entre un colono americano y un pastor protestante inglés.</desc>
+        <icon src="https://images.pluto.tv/series/64fee968020c540013075209/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="63d7a8e5a9957100086bfc23" start="20260403182420 +0000" stop="20260403184820 +0000">
         <title>South Park VOSE: Roger Ebert debería dejar las comidas grasas</title>
         <desc>¿Es el nuevo planetario un sitio donde los habitantes de South Park aprenderán nuevas cosas sobre el sistema solar? ¿O donde se lleva a cabo un diabólico plan para controlar sus mentes?</desc>
@@ -25299,6 +25304,11 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <desc>Cuatro torpes hermano intentan impresionar a su criminal madre asaltando un banco.</desc>
         <icon src="https://images.pluto.tv/series/5f4eacc9db45a1001a795155/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f1ac8099c49f600076579b2" start="20260404183158 +0000" stop="20260404202458 +0000">
+        <title>Un padre de cuidado</title>
+        <desc>La vida de Joe (Tim Allen) no hace sino empeorar. Cuando es golpeado por su compañero de trabajo, Joe decide que las cosas van a cambiar y pasará de ser un nadie a un alguien.</desc>
+        <icon src="https://images.pluto.tv/series/6076b675235736001ac444b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f1ac8a87cd38d000745d7cf" start="20260404132251 +0000" stop="20260404150451 +0000">
         <title>Enemy Within</title>
         <desc>Una chica joven, que acaba de perder la vista por causa de una enfermedad degenerativa, lucha para expulsar de su casa a un convicto que se ha refugiado en la cabaña de su madre.</desc>
@@ -31065,7 +31075,12 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Featuring an SS17 full stage replay of the Delfi Rally Estonia 2025.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e02423b9ce349c90edef9" start="20260404183500 +0000" stop="20260404223000 +0000">
+    <programme channel="696e02423b9ce349c90edef9" start="20260404183500 +0000" stop="20260404192100 +0000">
+        <title>FIA World Rally Championship</title>
+        <desc>Featuring an SS18 full stage replay of the Delfi Rally Estonia 2025.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce974b1996b7d1334ae3/tile_1772539544824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e02423b9ce349c90edef9" start="20260404192100 +0000" stop="20260404223000 +0000">
         <title>Rally TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/696e02423b9ce349c90edef9/featuredImage_1770892063713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

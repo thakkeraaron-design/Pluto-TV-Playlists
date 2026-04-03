@@ -33894,9 +33894,9 @@ on a child; and a girl gets scared by a talking doll.</desc>
         <icon src="https://images.pluto.tv/series/67b4a859f77b5e1d23c9f379/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6792c30abc03978b9b8bb832" start="20260404025500 +0000" stop="20260404043300 +0000">
-        <title>The NBA Channel</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/featuredImage_1747950897843.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>Hardwood Classics</title>
+        <desc>Jerry Stackhouse sets a new Pistons record for points when he hits for 57 against the Bulls.</desc>
+        <icon src="https://images.pluto.tv/series/67ad287f9730749ac8abe419/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6792c30abc03978b9b8bb832" start="20260404043300 +0000" stop="20260404050900 +0000">
         <title>Season Highlights</title>
@@ -33908,10 +33908,10 @@ on a child; and a girl gets scared by a talking doll.</desc>
         <desc>All 30 NBA teams run G League affiliates; President Shareef Abdur-Rahim reflects on its 25th season impact.</desc>
         <icon src="https://images.pluto.tv/series/69cfba7f5228f729651f1a54/tile_1775221375791.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6792c30abc03978b9b8bb832" start="20260404053100 +0000" stop="20260404063000 +0000">
-        <title>The NBA Channel</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6792c30abc03978b9b8bb832/featuredImage_1747950897843.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6792c30abc03978b9b8bb832" start="20260404053100 +0000" stop="20260404073500 +0000">
+        <title>Hardwood Classics</title>
+        <desc>Chris Mullin and Mitch Richmond combine for 60 while Tim Hardaway adds a triple-double to get by the Magic.</desc>
+        <icon src="https://images.pluto.tv/series/67ad287f9730749ac8abe419/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="681109b688b9d85d0938c6ba" start="20260404010000 +0000" stop="20260404080000 +0000">
         <title>Tennis Today</title>
@@ -33924,14 +33924,9 @@ on a child; and a girl gets scared by a talking doll.</desc>
         <icon src="https://images.pluto.tv/series/69c968e50e11c84e72cf3289/tile_1774887344553.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="681109b688b9d85d0938c6ba" start="20260404100000 +0000" stop="20260404153000 +0000">
-        <title>TennisChannel 2</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/681109b688b9d85d0938c6ba/featuredImage_1747434869653.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="681109b688b9d85d0938c6ba" start="20260404153000 +0000" stop="20260404160000 +0000">
-        <title>ATP Tour This Week</title>
-        <desc>TennisChannel 2 is Tennis Channel’s second network, airing select live tournament coverage from both the women’s and men’s professional tours. The network also features original series and unique storylines &amp; interviews from shows like Second Serve.</desc>
-        <icon src="https://images.pluto.tv/series/68c3019a0652cfdb65cb6422/tile_1757610398850.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Tennis Today Live</title>
+        <desc>Coverage from ATP, WTA and other events from around the world.</desc>
+        <icon src="https://images.pluto.tv/series/68473d7e0d69b4d3548e36c3/tile_1774034011249.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5417a212ff9fba68282fbf5e" start="20260404020000 +0000" stop="20260404030000 +0000">
         <title>It's Showtime</title>
@@ -39644,25 +39639,20 @@ on a child; and a girl gets scared by a talking doll.</desc>
         <desc>In the action-packed second chapter of the Iceman saga, Ying's heroic fight to rewrite history and reclaim his honor continues but those he trusts most may be leading into a deadly trap.</desc>
         <icon src="https://images.pluto.tv/series/60a8562a5c4082001373c4e9/tile_1768762081456.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5a4d3a00ad95e4718ae8d8db" start="20260404063000 +0000" stop="20260404080000 +0000">
-        <title>Pluto TV Comedy</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/featuredImage_1731835745303.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5a4d3a00ad95e4718ae8d8db" start="20260404061500 +0000" stop="20260404080000 +0000">
+        <title>Orange County</title>
+        <desc>Shaun is content to be a bright but unfocused surf slacker, until the day he discovers a novel by acclaimed author Martin Skinner. Inspired, he suddenly leaves behind Orange County to study creative writing Stanford University.</desc>
+        <icon src="https://images.pluto.tv/series/5cc22329251c9fc6e72ddfa1/tile_1770417721082.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5a4d3a00ad95e4718ae8d8db" start="20260404080000 +0000" stop="20260404093000 +0000">
         <title>The Overnight</title>
         <desc>Alex (Adam Scott), Emily (Taylor Schilling) and their son RJ are new to LA. A chance meeting, introduces them to the mysterious Kurt (Jason Schwartzman), Charlotte and Max. A family playdate becomes increasingly interesting as the night goes on.</desc>
         <icon src="https://images.pluto.tv/series/617b3a823eb0f4001a177d33/tile_1771274160941.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5a4d3a00ad95e4718ae8d8db" start="20260404093000 +0000" stop="20260404153000 +0000">
-        <title>Pluto TV Comedy</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/featuredImage_1731835745303.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="5a4d3a00ad95e4718ae8d8db" start="20260404153000 +0000" stop="20260404173000 +0000">
-        <title>Bill &amp; Ted's Bogus Journey</title>
-        <desc>In this sequel to BILL &amp; TED'S EXCELLENT ADVENTURE, the dimwitted duo travel to Heaven, Hell and points in between as they meet (among others) Albert Einstein, the Easter Bunny and the Grim Reaper.</desc>
-        <icon src="https://images.pluto.tv/series/5c183ab6fa05d4d9b433e40a/tile_1749750489367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="5a4d3a00ad95e4718ae8d8db" start="20260404093000 +0000" stop="20260404113000 +0000">
+        <title>Wayne's World</title>
+        <desc>When a sleazy TV exec offers Wayne and Garth a contract to tape their late-night cable-access show at his network, they discover the road to the big time is full of gnarly twists and turns.</desc>
+        <icon src="https://images.pluto.tv/series/66317a38d1a91700139f0c9a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5a66795ef91fef2c7031c599" start="20260404054500 +0000" stop="20260404080000 +0000">
         <title>Mrs. Winterbourne</title>
@@ -39770,9 +39760,14 @@ on a child; and a girl gets scared by a talking doll.</desc>
         <icon src="https://images.pluto.tv/series/59014268a1041ca52b5abff0/tile_1773253801000.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5c665db3e6c01b72c4977bc2" start="20260404103001 +0000" stop="20260404130001 +0000">
-        <title>Bound</title>
-        <desc>Caesar’s a guy who launders money for the mob. What’s the last thing that would come between a sleazy wise guy like Caesar and that money? A couple of women with brains to die for and bodies to match.</desc>
-        <icon src="https://images.pluto.tv/series/5c4bb2b208d10f9a25bbc6a6/tile_1768951441807.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Pluto TV Cult Films</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
+    <programme channel="5c665db3e6c01b72c4977bc2" start="20260404130001 +0000" stop="20260404151501 +0000">
+        <title>Anti-Trust</title>
+        <desc>When Milo graduates from college and lands his dream job writing software at a multi-billion dollar computer company, he couldn't be more thrilled. The company's founder that he worshipped as a child is now his personal mentor.</desc>
+        <icon src="https://images.pluto.tv/series/58f5713f03b953e6369567ac/tile_1772825762053.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5c6dc88fcd232425a6e0f06e" start="20260404060000 +0000" stop="20260404074500 +0000">
         <title>Hellraiser IV: Bloodline</title>
@@ -42853,35 +42848,10 @@ the day, and a look at everyday nincompoops.</desc>
         <desc>While Cassidy recuperates after being struck by a stray bullet, Nash and Joe look for both the shooter and the gun supplier.</desc>
         <icon src="https://images.pluto.tv/series/668d899294a1840013cbce0f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68758038552299d2b08162e3" start="20260404054200 +0000" stop="20260404063500 +0000">
+    <programme channel="68758038552299d2b08162e3" start="20260404063000 +0000" stop="20260404103000 +0000">
         <title>Law &amp; Order</title>
-        <desc>The detectives link a dead FBI witness to an overeager hit man and a gangster; Schiff pushes to prosecute the mob for the murder.</desc>
-        <icon src="https://images.pluto.tv/series/68bb2e36b76cf0ad37876df3/tile_1757459516274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68758038552299d2b08162e3" start="20260404063500 +0000" stop="20260404072700 +0000">
-        <title>Law &amp; Order</title>
-        <desc>The stabbing death of a psychologist draws Detectives Briscoe and Curtis into a heated divorce case and pits McCoy and Ross against a manipulative attorney.</desc>
-        <icon src="https://images.pluto.tv/series/68bb2e36b76cf0ad37876df3/tile_1757459516274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68758038552299d2b08162e3" start="20260404072700 +0000" stop="20260404081900 +0000">
-        <title>Law &amp; Order</title>
-        <desc>A girl's death at a party provides a puzzle for Briscoe and Curtis; McCoy and Ross work around the margins of law.</desc>
-        <icon src="https://images.pluto.tv/series/68bb2e36b76cf0ad37876df3/tile_1757459516274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68758038552299d2b08162e3" start="20260404081900 +0000" stop="20260404091100 +0000">
-        <title>Law &amp; Order</title>
-        <desc>Detectives try to find out what happened to a woman who was found unconscious at the bottom of her apartment stairs.</desc>
-        <icon src="https://images.pluto.tv/series/68bb2e36b76cf0ad37876df3/tile_1757459516274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68758038552299d2b08162e3" start="20260404091100 +0000" stop="20260404100300 +0000">
-        <title>Law &amp; Order</title>
-        <desc>McCoy and Ross must negotiate with an informant to get information about a missing couple and the main suspect in the disappearance.</desc>
-        <icon src="https://images.pluto.tv/series/68bb2e36b76cf0ad37876df3/tile_1757459516274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68758038552299d2b08162e3" start="20260404100300 +0000" stop="20260404105500 +0000">
-        <title>Law &amp; Order</title>
-        <desc>The death of a disabled teenage boy raises questions about whether a suspected killer was motivated by mercy or something more sinister.</desc>
-        <icon src="https://images.pluto.tv/series/68bb2e36b76cf0ad37876df3/tile_1757459516274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/68758038552299d2b08162e3/featuredImage_1753995057407.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="6887a4e01067b66fa16966ec" start="20260404061911 +0000" stop="20260404071424 +0000">
         <title>Alaska PD</title>
@@ -45894,9 +45864,14 @@ the day, and a look at everyday nincompoops.</desc>
         <icon src="https://images.pluto.tv/series/6542a7af3e6938001a9b93aa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5ced7d5df64be98e07ed47b6" start="20260404075000 +0000" stop="20260404110400 +0000">
-        <title>NFL Draft</title>
-        <desc>All 32 picks in the first round of the 2013 NFL Draft held in New York City.</desc>
-        <icon src="https://images.pluto.tv/series/6542b5c5619680001a6f2ca3/tile_1771531277958.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>NFL Channel</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
+    <programme channel="5ced7d5df64be98e07ed47b6" start="20260404110400 +0000" stop="20260404120400 +0000">
+        <title>Mock Draft Live</title>
+        <desc>Unveil the latest mock drafts from our draft experts. They'll tell you who's rising and who's falling down draft boards ahead of the 2026 NFL Draft.</desc>
+        <icon src="https://images.pluto.tv/series/69ab01676d7de5ca3633a51e/tile_1772814696036.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5d486acc34ceb37d3c458a64" start="20260404060000 +0000" stop="20260404070000 +0000">
         <title>Bill O'Reilly: No Spin News</title>
@@ -46083,10 +46058,10 @@ the day, and a look at everyday nincompoops.</desc>
         <desc>Hosted by Donna Fiducia, a former Fox News Channel anchor and Don Neuen, a politically incorrect cowboy.</desc>
         <icon src="https://images.pluto.tv/series/68f9382069032f4edf6606a2/tile_1771552907435.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e46fba0c43b0d00096e5ac1" start="20260404060000 +0000" stop="20260404090000 +0000">
-        <title>Glenn Beck Radio</title>
-        <desc>Glenn Beck tackles progressivism with conservative solutions.</desc>
-        <icon src="https://images.pluto.tv/series/6128391b7a1a65001320405e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="5e46fba0c43b0d00096e5ac1" start="20260404063000 +0000" stop="20260404090000 +0000">
+        <title>Blaze Live</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5e46fba0c43b0d00096e5ac1" start="20260404090000 +0000" stop="20260404100000 +0000">
         <title>Fearless With Jason Whitlock</title>
@@ -46094,9 +46069,19 @@ the day, and a look at everyday nincompoops.</desc>
         <icon src="https://images.pluto.tv/series/68fbc5ef71d0752d87c6429b/tile_1761330901430.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5e46fba0c43b0d00096e5ac1" start="20260404100000 +0000" stop="20260404130000 +0000">
-        <title>Glenn Beck Radio</title>
-        <desc>Glenn Beck tackles progressivism with conservative solutions.</desc>
-        <icon src="https://images.pluto.tv/series/6128391b7a1a65001320405e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Blaze Live</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
+    <programme channel="5e46fba0c43b0d00096e5ac1" start="20260404130000 +0000" stop="20260404150000 +0000">
+        <title>Pat Gray Unleashed</title>
+        <desc>Pat Gray pulls no punches and restores common sense to a senseless world through biting analysis, unique insight and fun.</desc>
+        <icon src="https://images.pluto.tv/series/6128391b7a1a650013204065/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e46fba0c43b0d00096e5ac1" start="20260404150000 +0000" stop="20260404160000 +0000">
+        <title>The Glenn Beck Podcast</title>
+        <desc>Glenn Beck sits down with notable guests to discuss big ideas, inspiring stories, and the origins of the extraordinary people behind them.</desc>
+        <icon src="https://images.pluto.tv/series/67afa0e174645d925da210fe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5e66968a70f34c0007d050be" start="20260404034720 +0000" stop="20260404073701 +0000">
         <title>Great Games</title>
@@ -47220,35 +47205,30 @@ the day, and a look at everyday nincompoops.</desc>
         <desc>Steamed artichokes with tarragon butter; braised leeks; fried okra; whole-roasted garlic.</desc>
         <icon src="https://images.pluto.tv/series/67d4a7d0174f833db20b2d6f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67c62ac2095aea2ec805eb34" start="20260404092200 +0000" stop="20260404095500 +0000">
-        <title>Martha Gardens</title>
-        <desc>Now with over 200 chickens and 20 different breeds, Martha shares her vast knowledge about raising and caring for her flock; learn the how-tos of building a coop.</desc>
-        <icon src="https://images.pluto.tv/series/67d4a7d2174f833db20b31bf/tile_1773148410777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67c62ac2095aea2ec805eb34" start="20260404095500 +0000" stop="20260404102700 +0000">
-        <title>Martha Gardens</title>
-        <desc>Martha builds a brand new, half-acre raised bed vegetable garden on her farm! It's a step-by-step guide to designing, building, preparing the soil, and planting.</desc>
-        <icon src="https://images.pluto.tv/series/67d4a7d2174f833db20b31bf/tile_1773148410777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67c62ac2095aea2ec805eb34" start="20260404102700 +0000" stop="20260404105900 +0000">
-        <title>Martha Gardens</title>
-        <desc>Everything is coming up roses on Martha's Bedford farm; Martha is creating a brand new rose garden with almost 200 roses; from color to fragrance, the inspired world of roses is a very good thing.</desc>
-        <icon src="https://images.pluto.tv/series/67d4a7d2174f833db20b31bf/tile_1773148410777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="67c62ac2095aea2ec805eb34" start="20260404092200 +0000" stop="20260404103000 +0000">
+        <title>The Martha Stewart Channel</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/67c62ac2095aea2ec805eb34/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="682e43b21295f98347710917" start="20260404040000 +0000" stop="20260404080000 +0000">
         <title>Disc Golf Pro Tour</title>
         <desc>DGPT '26: Queen City Classic Round 1.</desc>
         <icon src="https://plut.tmsimg.com/assets/p20441622_i_s4_ab.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="682e43b21295f98347710917" start="20260404080000 +0000" stop="20260404093000 +0000">
-        <title>Super Netball</title>
-        <desc>Premier netball league action.</desc>
-        <icon src="https://images.pluto.tv/series/683f9ae20d69b4d35488953d/tile_1757974286469.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="682e43b21295f98347710917" start="20260404080000 +0000" stop="20260404110000 +0000">
+        <title>AWSN</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/682e43b21295f98347710917/featuredImage_1748886692460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="682e43b21295f98347710917" start="20260404093000 +0000" stop="20260404110000 +0000">
-        <title>Super Netball</title>
-        <desc>Premier netball league action.</desc>
-        <icon src="https://images.pluto.tv/series/683f9ae20d69b4d35488953d/tile_1757974286469.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="682e43b21295f98347710917" start="20260404110000 +0000" stop="20260404130900 +0000">
+        <title>Saudi Women's Premier League Soccer</title>
+        <desc>From Alinma Stadium in Jeddah, Saudi Arabia.</desc>
+        <icon src="https://images.pluto.tv/series/68c9d7fd0a7c328ed55e9f83/tile_1758058500135.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="682e43b21295f98347710917" start="20260404130900 +0000" stop="20260404145800 +0000">
+        <title>Damallsvenskan</title>
+        <desc>From Eleda Stadion in Malmö, Sweden.</desc>
+        <icon src="https://images.pluto.tv/series/688a0464cb15389834893cd9/tile_1753875581407.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="683df56f5195c2a60a3f5559" start="20260404051635 +0000" stop="20260404071637 +0000">
         <title>Timbersports: Canada World Championship 2024</title>
@@ -55746,12 +55726,12 @@ steps on a cactus.</desc>
     </programme>
     <programme channel="5812bcc8237a6ff45d16c407" start="20260404133000 +0000" stop="20260404140000 +0000">
         <title>Auction Hunters</title>
-        <desc>'70s sand rail dune racer with rally hemi heads; 1965 replica Mustang pool table; off-road racing gear.</desc>
+        <desc>A custom-built shark cage; 1900s pathologist's dissection toolkit; 1940s embalming pump and one of the first electric bone saws.</desc>
         <icon src="https://images.pluto.tv/series/5d9ccb0c4cd0348a9d998cc3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5812bcc8237a6ff45d16c407" start="20260404133000 +0000" stop="20260404140000 +0000">
         <title>Auction Hunters</title>
-        <desc>A custom-built shark cage; 1900s pathologist's dissection toolkit; 1940s embalming pump and one of the first electric bone saws.</desc>
+        <desc>'70s sand rail dune racer with rally hemi heads; 1965 replica Mustang pool table; off-road racing gear.</desc>
         <icon src="https://images.pluto.tv/series/5d9ccb0c4cd0348a9d998cc3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5812bcc8237a6ff45d16c407" start="20260404140000 +0000" stop="20260404143000 +0000">
@@ -59842,10 +59822,30 @@ steps on a cactus.</desc>
         <desc>Jiří Procházka and Lerryan Douglas join this episode of Unfiltered.</desc>
         <icon src="https://images.pluto.tv/series/67ddc4cf6471f0761b46c4e0/tile_1775135545198.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67c62ac2095aea2ec805eb34" start="20260404103000 +0000" stop="20260404131300 +0000">
-        <title>The Martha Stewart Channel</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/67c62ac2095aea2ec805eb34/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="67c62ac2095aea2ec805eb34" start="20260404102700 +0000" stop="20260404105900 +0000">
+        <title>Martha Gardens</title>
+        <desc>Everything is coming up roses on Martha's Bedford farm; Martha is creating a brand new rose garden with almost 200 roses; from color to fragrance, the inspired world of roses is a very good thing.</desc>
+        <icon src="https://images.pluto.tv/series/67d4a7d2174f833db20b31bf/tile_1773148410777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67c62ac2095aea2ec805eb34" start="20260404105900 +0000" stop="20260404113200 +0000">
+        <title>Martha Gardens</title>
+        <desc>Martha's azalea grove is bursting with the last flowers of spring; then everything you need to know about hostas; Martha takes up bird watching.</desc>
+        <icon src="https://images.pluto.tv/series/67d4a7d2174f833db20b31bf/tile_1773148410777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67c62ac2095aea2ec805eb34" start="20260404113200 +0000" stop="20260404120500 +0000">
+        <title>Martha Gardens</title>
+        <desc>Martha visits her former home, Turkey Hill, where everything began for Martha in the 1970s; then back to her Bedford farm for a garden club tour - a peek inside Martha's gardens past and present.</desc>
+        <icon src="https://images.pluto.tv/series/67d4a7d2174f833db20b31bf/tile_1773148410777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67c62ac2095aea2ec805eb34" start="20260404120500 +0000" stop="20260404124200 +0000">
+        <title>Martha Gardens</title>
+        <desc>One of the joys of gardening is planning for beautiful color all through the year; bulbs and tubers are at the center of this show because of their beautiful blooms from spring to winter.</desc>
+        <icon src="https://images.pluto.tv/series/67d4a7d2174f833db20b31bf/tile_1773148410777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67c62ac2095aea2ec805eb34" start="20260404124200 +0000" stop="20260404131300 +0000">
+        <title>Martha Gardens</title>
+        <desc>Martha's new passion project is the maze she's building on her Bedford farm; she shares her plans and inspiration for the project and teaches the proper measuring, staking and fertilizing techniques to properly plant successful trees.</desc>
+        <icon src="https://images.pluto.tv/series/67d4a7d2174f833db20b31bf/tile_1773148410777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="67c62ac2095aea2ec805eb34" start="20260404131300 +0000" stop="20260404134600 +0000">
         <title>Martha Bakes</title>
@@ -59862,10 +59862,10 @@ steps on a cactus.</desc>
         <desc>Hazelnut hot cross buns with dried cherries; honeyed whole-wheat bread; pull-apart whole-wheat monkey bread.</desc>
         <icon src="https://images.pluto.tv/series/67d4a7d3174f833db20b326c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="682e43b21295f98347710917" start="20260404103000 +0000" stop="20260404110000 +0000">
-        <title>AWSN</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/682e43b21295f98347710917/featuredImage_1748886692460.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="682e43b21295f98347710917" start="20260404093000 +0000" stop="20260404110000 +0000">
+        <title>Super Netball</title>
+        <desc>Premier netball league action.</desc>
+        <icon src="https://images.pluto.tv/series/683f9ae20d69b4d35488953d/tile_1757974286469.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="682e43b21295f98347710917" start="20260404110000 +0000" stop="20260404130900 +0000">
         <title>Saudi Women's Premier League Soccer</title>
@@ -59876,11 +59876,6 @@ steps on a cactus.</desc>
         <title>Damallsvenskan</title>
         <desc>From Eleda Stadion in Malmö, Sweden.</desc>
         <icon src="https://images.pluto.tv/series/688a0464cb15389834893cd9/tile_1753875581407.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="682e43b21295f98347710917" start="20260404145800 +0000" stop="20260404170000 +0000">
-        <title>National Ringette League</title>
-        <desc>NRL '25: Bronze Medal Game.</desc>
-        <icon src="https://images.pluto.tv/series/68f12761fa0f5ccff595dce0/tile_1772633578120.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="683df56f5195c2a60a3f5559" start="20260404094628 +0000" stop="20260404113245 +0000">
         <title>Western Ultimate League (Ultimate Frisbee)</title>
@@ -67972,30 +67967,10 @@ steps on a cactus.</desc>
         <desc>Babysitters Nash and Joe must stop a hit man; Nick has an unsuitable love interest (Jennifer O'Neill).</desc>
         <icon src="https://images.pluto.tv/series/668d899294a1840013cbce0f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68758038552299d2b08162e3" start="20260404142400 +0000" stop="20260404151600 +0000">
+    <programme channel="68758038552299d2b08162e3" start="20260404143000 +0000" stop="20260404183000 +0000">
         <title>Law &amp; Order</title>
-        <desc>The investigation into a girl's death reveals secrets the adoptive family was desperately trying to hide.</desc>
-        <icon src="https://images.pluto.tv/series/68bb2e36b76cf0ad37876df3/tile_1757459516274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68758038552299d2b08162e3" start="20260404151600 +0000" stop="20260404160800 +0000">
-        <title>Law &amp; Order</title>
-        <desc>Detectives discover a shocking twist involving unlikely suspects when they investigate the brutal beating of a black man dumped near the highway.</desc>
-        <icon src="https://images.pluto.tv/series/68bb2e36b76cf0ad37876df3/tile_1757459516274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68758038552299d2b08162e3" start="20260404160800 +0000" stop="20260404170000 +0000">
-        <title>Law &amp; Order</title>
-        <desc>A robbery/assault victim feeds the police half-truths leading to the discovery of the cold-blooded murder of a young girl.</desc>
-        <icon src="https://images.pluto.tv/series/68bb2e36b76cf0ad37876df3/tile_1757459516274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68758038552299d2b08162e3" start="20260404170000 +0000" stop="20260404175100 +0000">
-        <title>Law &amp; Order</title>
-        <desc>The death of a boy from an injection of a lethal flu sends detectives Briscoe and Curtis and prosecutors McCoy and Carmichael after the murderer.</desc>
-        <icon src="https://images.pluto.tv/series/68bb2e36b76cf0ad37876df3/tile_1757459516274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68758038552299d2b08162e3" start="20260404175100 +0000" stop="20260404184300 +0000">
-        <title>Law &amp; Order</title>
-        <desc>A serial killer confesses to new crimes, and McCoy and Carmichael face a moral dilemma when they learn they have the wrong man.</desc>
-        <icon src="https://images.pluto.tv/series/68bb2e36b76cf0ad37876df3/tile_1757459516274.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/68758038552299d2b08162e3/featuredImage_1753995057407.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="6887a4e01067b66fa16966ec" start="20260404141809 +0000" stop="20260404144409 +0000">
         <title>Live PD Presents: PD Cam</title>
@@ -68967,10 +68942,25 @@ steps on a cactus.</desc>
         <desc>Giorgio Tsoukalos takes a look back at the most compelling investigations of all, and events that he believes represent real encounters with extraterrestrial visitors.</desc>
         <icon src="https://plut.tmsimg.com/assets/p8039273_b_s4_ck.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260404143000 +0000" stop="20260404160000 +0000">
-        <title>Storage Wars by A&amp;E</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/6887aaf4e3703b7d42b71a1e/featuredImage_1755034317938.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260404141100 +0000" stop="20260404143800 +0000">
+        <title>Storage Wars</title>
+        <desc>Mary finally locates a vintage goodie in El Monte, Calif.; Ivy uncovers decades-old family fun; Darrell revisits a childhood pastime.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1770765316892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260404143800 +0000" stop="20260404150500 +0000">
+        <title>Storage Wars</title>
+        <desc>Jarrod and Brandi take risks when lockers in Westminster, Calif., demand top dollar; Ivy goes on a buying spree; Rene lands a collector's unit.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1770765316892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260404150500 +0000" stop="20260404153200 +0000">
+        <title>Storage Wars</title>
+        <desc>The buyers hit Dan's hometown; the Vegas Ladies' locker really takes off; Kenny's purchase sets his wallet alight; Brandi and Jarrod put their vacation funds on the line.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1770765316892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6887aaf4e3703b7d42b71a1e" start="20260404153200 +0000" stop="20260404160000 +0000">
+        <title>Storage Wars</title>
+        <desc>The bidders scrounge for a high-end score in Santa Ana, Calif.; Jarrod and Ivy go on buying sprees that leave the competition reeling; Rene waits for the perfect moment to pounce.</desc>
+        <icon src="https://images.pluto.tv/series/68a4d2492eb4d0c1a4eaa73f/tile_1770765316892.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6887aaf4e3703b7d42b71a1e" start="20260404160000 +0000" stop="20260404191900 +0000">
         <title>Storage Wars: Home Runs and Winning Finds</title>
@@ -73059,30 +73049,10 @@ steps on a cactus.</desc>
         <desc>David Attenborough learns that descendants of the dinosaur age are alive and well. David explores how they survived the catastrophes that wiped out other species.</desc>
         <icon src="https://images.pluto.tv/series/673c9b823b8ac60013ca5f60/tile_1769771638908.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67d07b7b798df95b8e9484b5" start="20260404141100 +0000" stop="20260404144600 +0000">
-        <title>Emeril Cooks</title>
-        <desc>Using farm-fresh ingredients provided by Sarah Roland, owner of the only water buffalo dairy in Louisiana, Emeril prepares a caprese pasta, braised water buffalo chuck roast, and broccoli rabe.</desc>
-        <icon src="https://images.pluto.tv/series/67dc9ea9917edb2422887a82/tile_1754950204366.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67d07b7b798df95b8e9484b5" start="20260404144600 +0000" stop="20260404152400 +0000">
-        <title>Emeril Cooks</title>
-        <desc>Janie Glade inspires a delicious and economical meal.</desc>
-        <icon src="https://images.pluto.tv/series/67dc9ea9917edb2422887a82/tile_1754950204366.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67d07b7b798df95b8e9484b5" start="20260404152400 +0000" stop="20260404155900 +0000">
-        <title>Emeril Cooks</title>
-        <desc>Emeril makes crab and corn bisque, andouille-encrusted redfish with roasted pecan vegetable relish, meunière sauce, and shoestring potatoes with New Orleans food critic Ian McNulty.</desc>
-        <icon src="https://images.pluto.tv/series/67dc9ea9917edb2422887a82/tile_1754950204366.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67d07b7b798df95b8e9484b5" start="20260404155900 +0000" stop="20260404163400 +0000">
-        <title>Emeril Cooks</title>
-        <desc>Joined by the owner of Singleton's Mini Mart, Bau Nguyen, Emeril draws inspiration from Vietnamese cuisine to create Viet-style curried shrimp with cellophane noodles and slow-cooked beef brisket pho.</desc>
-        <icon src="https://images.pluto.tv/series/67dc9ea9917edb2422887a82/tile_1754950204366.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="67d07b7b798df95b8e9484b5" start="20260404163400 +0000" stop="20260404170900 +0000">
-        <title>Emeril Cooks</title>
-        <desc>Emeril draws inspiration from a NOLA local's family recipes to create a creole-inspired menu of chicken sauce piquante, and creamy grillades and grits.</desc>
-        <icon src="https://images.pluto.tv/series/67dc9ea9917edb2422887a82/tile_1754950204366.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="67d07b7b798df95b8e9484b5" start="20260404143000 +0000" stop="20260404170900 +0000">
+        <title>The Emeril Lagasse Channel</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/67d07b7b798df95b8e9484b5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="67d07b7b798df95b8e9484b5" start="20260404170900 +0000" stop="20260404174700 +0000">
         <title>Entertaining With Emeril</title>
